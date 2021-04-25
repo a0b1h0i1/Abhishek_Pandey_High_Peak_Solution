@@ -1,0 +1,9 @@
+Number of the employees: 4
+
+Here the goodies that are selected for distribution are:
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Macbook Pro: 229900
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 227705

@@ -1,0 +1,7 @@
+Number of the employees: 2
+
+Here the goodies that are selected for distribution are:
+Digital Camera: 11101
+Scale: 4999
+
+And the difference between the chosen goodie with highest price and the lowest price is 6102
